@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[3641,[],""]
+3:I[1484,[],""]
+:HL["/ai-evaluation-center-portfolio/_next/static/css/81e21e9629cefdb6.css","style"]
+0:{"buildId":"W7ey8Q6LBkZn98Iq3I9EM","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ai-evaluation-center-portfolio/_next/static/css/81e21e9629cefdb6.css","precedence":"next"}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]}]]}],"loading":null,"isPartial":false}

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[5247,[],"ViewportBoundary"]
+3:I[5247,[],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[2542,[],"IconMark"]
+0:{"buildId":"W7ey8Q6LBkZn98Iq3I9EM","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Gemini 3.1 Pro · OpenMAIC Evaluation Center"}],["$","meta","1",{"name":"description","content":"Gemini 3.1 Pro versions and cross-benchmark performance."}],["$","link","2",{"rel":"icon","href":"/ai-evaluation-center-portfolio/icon.png?44c7e05f5722c1bd","type":"image/png","sizes":"128x128"}],["$","$L5","3",{}]]}]}]}],null]}],"loading":null,"isPartial":false}
